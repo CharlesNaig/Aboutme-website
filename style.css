@@ -52,7 +52,7 @@ ul {
 .box li a{
     color: #fff;
     text-decoration: none;
-    font-style: 50px;
+    font-size: 24px;
     transition: all ease-in-out;
     text-align: center;
 }
