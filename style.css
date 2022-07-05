@@ -22,8 +22,8 @@ body{
 }
 .box-img{
     border-radius: 50%;
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
 }
 .box h1{
     font-size: 40px;
@@ -41,7 +41,7 @@ ul {
     padding: 0px;
 }
 .box p{
-    text-align: justify;
+    text-align: center;
 }
 .box li{
     display: inline-block;
